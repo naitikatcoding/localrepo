@@ -2,7 +2,7 @@
 
 void main(){
     int a = 10;
-    int x = 100;
+    int x = 10;
     printf("%d" , a);
     printf("%d" , x);
 
